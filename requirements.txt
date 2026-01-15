@@ -1,0 +1,10 @@
+streamlit
+ezdxf
+geopandas
+fiona
+shapely
+pandas
+folium
+streamlit-folium
+pyproj
+numpy
